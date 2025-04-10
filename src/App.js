@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
             <h1>edit one</h1>
+            <h2>edit two</h2>
       </header>
     </div>
   );
